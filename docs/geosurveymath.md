@@ -1,4 +1,0 @@
-
-# geosurveymath module
-
-::: geosurveymath.geosurveymath
