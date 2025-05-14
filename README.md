@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/geosurveymath.svg)](https://anaconda.org/conda-forge/geosurveymath)
 
 
-**A package for least square calaculations in satellite position and photogrammatry and other geomatics related fields**
+**A package for least square calaculations in satellite position and photogrammetry and other geomatics related fields**
 
 
 -   Free software: MIT License
