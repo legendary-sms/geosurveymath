@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://legendary-sms.github.io/geosurveymath
-    
+
 
 ## Features
 
