@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/pypi/v/geosurveymath.svg)](https://pypi.python.org/pypi/geosurveymath)
 
 
-**A package for least square calaculations in satellite position and photogrammatry and other geomatics related fields**
+**A package for least square calaculations in satellite position and photogrammetry and other geomatics related fields**
 
 
 -   Free software: MIT License

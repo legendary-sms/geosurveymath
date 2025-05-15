@@ -1,7 +1,7 @@
 site_name: geosurveymath
-site_description: A package for least square calaculations in satellite position and photogrammatry and other geomatics related fields
+site_description: A package for least square calaculations in satellite position and photogrammetry and other geomatics related fields
 site_author: legendary-sms
-site_url: https://legendary-sms.github.io/geosurveymath
+site_url: https://geosurveymath.thegeosurvey.com
 repo_url: https://github.com/legendary-sms/geosurveymath
 
 copyright: "Copyright &copy; 2024 - 2024 Samuel Sarfo"
