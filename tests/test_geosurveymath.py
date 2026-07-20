@@ -2,7 +2,6 @@
 
 """Tests for `geosurveymath` package."""
 
-
 import unittest
 
 from geosurveymath import geosurveymath
